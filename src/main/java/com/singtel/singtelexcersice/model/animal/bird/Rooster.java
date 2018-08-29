@@ -1,6 +1,6 @@
-package com.singtel.singtelexcersice.model.bird;
+package com.singtel.singtelexcersice.model.animal.bird;
 
-public class Rooster extends  Chicken{
+public class Rooster extends Chicken{
 
     @Override
     public void sing() {

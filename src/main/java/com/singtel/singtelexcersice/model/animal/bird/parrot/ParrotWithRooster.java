@@ -1,4 +1,4 @@
-package com.singtel.singtelexcersice.model.bird.parrot;
+package com.singtel.singtelexcersice.model.animal.bird.parrot;
 
 public class ParrotWithRooster extends Parrot {
 
