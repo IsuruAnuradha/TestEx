@@ -1,11 +1,12 @@
-package com.singtel.singtelexcersice.model.animal.bird;
+package com.test.excersice.model.animal.bird;
 
-import com.singtel.singtelexcersice.model.animal.Animal;
+import com.test.excersice.model.animal.Animal;
 
  public class Bird extends Animal {
 
-    public void fly(){
+     public void fly(){
         System.out.println("I am flying");
+
     }
 
     public void sing(){

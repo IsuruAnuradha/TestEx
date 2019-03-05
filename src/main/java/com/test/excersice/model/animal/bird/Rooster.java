@@ -1,8 +1,9 @@
-package com.singtel.singtelexcersice.model.animal.bird;
+package com.test.excersice.model.animal.bird;
 
 public class Rooster extends Chicken{
 
-    @Override
+    //We can Use composition insted of Inheritance
+
     public void sing() {
         System.out.println("says Cock-a-doodle-doo");
     }

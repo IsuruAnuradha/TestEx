@@ -1,6 +1,6 @@
-package com.singtel.singtelexcersice.model.animal.bird.parrot;
+package com.test.excersice.model.animal.bird.parrot;
 
-import com.singtel.singtelexcersice.model.animal.bird.Bird;
+import com.test.excersice.model.animal.bird.Bird;
 
 public class Parrot extends Bird {
 

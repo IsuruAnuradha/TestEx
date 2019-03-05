@@ -1,6 +1,6 @@
-package com.singtel.singtelexcersice.model.metamorphosis;
+package com.test.excersice.model.metamorphosis;
 
-import com.singtel.singtelexcersice.model.animal.Animal;
+import com.test.excersice.model.animal.Animal;
 
 public class Caterpillar {
 

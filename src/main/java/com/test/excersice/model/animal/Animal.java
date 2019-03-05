@@ -1,4 +1,4 @@
-package com.singtel.singtelexcersice.model.animal;
+package com.test.excersice.model.animal;
 
 public class Animal {
 

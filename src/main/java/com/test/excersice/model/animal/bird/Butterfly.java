@@ -1,13 +1,7 @@
-package com.singtel.singtelexcersice.model.animal.bird;
-
-import com.singtel.singtelexcersice.model.animal.Animal;
-
-public class Butterfly extends Animal {
+package com.test.excersice.model.animal.bird;
 
 
-    Bird bird = new Bird();
+public class Butterfly extends Bird {
 
-    public void fly(){
-        bird.fly();
-    }
+
 }

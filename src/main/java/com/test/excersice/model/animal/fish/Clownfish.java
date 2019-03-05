@@ -1,4 +1,4 @@
-package com.singtel.singtelexcersice.model.animal.fish;
+package com.test.excersice.model.animal.fish;
 
 public class Clownfish extends Fish {
     @Override
